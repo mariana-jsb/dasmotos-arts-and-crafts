@@ -5,7 +5,7 @@ p {
 }
 
 h1 {
-    background-image: url("./background-image");
+    background-image: url(../images/pattern.jpeg);
     font-size: 100px;
     font-weight: bold;
     color: khaki;
