@@ -1,0 +1,36 @@
+h1,
+h2,
+p {
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    background-image: url("./background-image");
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.product-title {
+    font-weight: bold;
+    font-size: 32px;
+    color: white;
+}
+
+.starting-price {
+    color: blue;
+    font-weight: bold;
+}
+
+#brushes .product-title {
+    background-color: mediumspringgreen;
+}
+
+#frames .product-title {
+    background-color: lightcoral;
+}
+
+#paint .product-title {
+    background-color: skyblue;
+}
